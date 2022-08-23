@@ -1,0 +1,8 @@
+#Archivos que no se incluyen en el repositorio
+
+Nuevo documento de texto.txt
+*.tmp
+
+#directorios que no se incluyen en el repositorio
+
+/module
